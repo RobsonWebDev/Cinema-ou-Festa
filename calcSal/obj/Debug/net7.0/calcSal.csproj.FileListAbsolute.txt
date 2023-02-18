@@ -1,0 +1,15 @@
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\bin\Debug\net7.0\calcSal.exe
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\bin\Debug\net7.0\calcSal.deps.json
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\bin\Debug\net7.0\calcSal.runtimeconfig.json
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\bin\Debug\net7.0\calcSal.dll
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\bin\Debug\net7.0\calcSal.pdb
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\obj\Debug\net7.0\calcSal.csproj.AssemblyReference.cache
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\obj\Debug\net7.0\calcSal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\obj\Debug\net7.0\calcSal.AssemblyInfoInputs.cache
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\obj\Debug\net7.0\calcSal.AssemblyInfo.cs
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\obj\Debug\net7.0\calcSal.csproj.CoreCompileInputs.cache
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\obj\Debug\net7.0\calcSal.dll
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\obj\Debug\net7.0\refint\calcSal.dll
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\obj\Debug\net7.0\calcSal.pdb
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\obj\Debug\net7.0\calcSal.genruntimeconfig.cache
+C:\Users\Robson Almaviva\Documents\novaCon\calcSal\obj\Debug\net7.0\ref\calcSal.dll
